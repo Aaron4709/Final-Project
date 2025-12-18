@@ -7,12 +7,12 @@ To build the shell run: make
 To remove compiled object files run: make clean
 To run the shell use: ./myshell
 Dependencies: Required Linux
-Sample Commands:
-ls
-ls -l
-pwd
-cd /
-echo hello > out.txt
-cat < out.txt
-ls | wc -l
-sleep 5 &
+Sample Commands:  
+ls  
+ls -l  
+pwd  
+cd /  
+echo hello > out.txt  
+cat < out.txt  
+ls | wc -l  
+sleep 5 &  
