@@ -6,7 +6,7 @@
 To build the shell run: make  
 To remove compiled object files run: make clean  
 To run the shell use: ./myshell  
-- Dependencies: Required Linux
+- Dependencies: Requires Linux
 - Sample Commands:  
 ls  
 ls -l  
